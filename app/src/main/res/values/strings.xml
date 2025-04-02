@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MEAL APP</string>
+    <string name="enter_time_of_the_day_e_g_morning">Enter time of the day (e.g Morning)</string>
+    <string name="click_to_show_sugested_meal">Click to show sugested meal</string>
+    <string name="clear">Clear</string>
+</resources>
